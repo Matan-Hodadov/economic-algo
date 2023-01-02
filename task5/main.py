@@ -62,4 +62,3 @@ if __name__ == '__main__':
               [0.3, 0, 0.93, 1]]
     print("expected: False, got:", is_simple_cycle_free(matrix))
 
-
